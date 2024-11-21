@@ -1,0 +1,7 @@
+{
+  "name": "zindex-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
